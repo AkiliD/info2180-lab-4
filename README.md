@@ -1,1 +1,2 @@
-# info2180-lab-4
+# INFO2180 Lab 4
+This is Lab 4 for Akili Duncan
